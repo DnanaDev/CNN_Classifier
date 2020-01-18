@@ -11,6 +11,7 @@
  
 ## Files of Interest :
 1. Unprocessed images - CarImages folder.
+[Dataset Link](https://drive.google.com/open?id=1Jf68uBUHG4TBbnO9QxnaOpULrc3ybNyk)
 2. Best Model - convnet_img_dim_test.ipynb
 3. Preprocessed Dataset - Car_classifier_data_120_val.npy
 4. Saved model/Checkpoint - checkpoint_acc_0.867_img_size120_batch_50_epochs_20.pt
